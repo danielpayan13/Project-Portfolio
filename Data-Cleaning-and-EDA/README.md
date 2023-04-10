@@ -3,7 +3,7 @@
 
 In this project we analyzed an airline passenger dataset to identify which factors had the strongest influence on customer satisfaction. This is part 1 of this project, with part 2 being in my [Machine-Learning](https://github.com/danielpayan13/Project-Portfolio/tree/main/Machine-Learning) repo as it covers predicting customer satisfaction and identifying the most signficant features.
 
-### 2.[Hotel Reservations](https://github.com/danielpayan13/Project-Portfolio/tree/main/Data-Cleaning-and-EDA/Hotel%20Reservations)
+### 2. [Hotel Reservations](https://github.com/danielpayan13/Project-Portfolio/tree/main/Data-Cleaning-and-EDA/Hotel%20Reservations)
 
 In this project we analyzed a hotel guest dataset to explore correlations and visualize the distributions of attributes. This is part 1 of this project, with part 2 being in my [Machine-Learning](https://github.com/danielpayan13/Project-Portfolio/tree/main/Machine-Learning) repo as it covers predicting whether or not a guest honored or canceled their hotel reservation based on their attributes.
 
